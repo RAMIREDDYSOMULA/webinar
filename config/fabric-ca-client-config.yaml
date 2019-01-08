@@ -104,10 +104,10 @@ csr:
   cn: ord-admin
   serialnumber:
   names:
-    - C: IE
-      ST: Dublin
+    - C: India
+      ST: Banglore
       L:
-      O: "AID:Tech"
+      O: "SPF:Tech"
       OU: Blockchain
   hosts:
     - Alejandros-MacBook-Pro.local
